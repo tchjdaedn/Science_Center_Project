@@ -1,0 +1,25 @@
+Science Center Presentation (10 Minutes)
+
+Business Objectives - Split into two user groups
+1. Science Center Visitors
+	Allows for easy location of centers and
+	quick links to thier information (websites)
+2. Science Center Builders
+	Indicates where there are "Sceince Center Deserts"
+	(High population areas with-out near by centers)
+(1-2) Miuntes - Raleigh
+
+Data Munging Techniques
+1. Science Center Webscraper
+
+2. Census Data
+(1-2) Miuntes - Dan
+
+App Architecture
+(1-2) Miuntes - Alex
+
+Webpage
+(1-2) Minutes - Maria
+
+Interactive Viz
+(1-2) Miuntes - Raleigh
